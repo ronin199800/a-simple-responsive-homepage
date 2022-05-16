@@ -157,6 +157,9 @@ input:focus{
 .txt-2{
     color: var(--main-txt);
 }
+.txt-3{
+    color: #333;
+}
 .bg{
     background-color: var(--bg-clr);
 }
